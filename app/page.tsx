@@ -997,21 +997,21 @@ export default function Home() {
                       name: "FIFINE AM8",
                       note: "USB/XLR両対応。価格を抑えつつ配信向けの音質を狙いやすい定番候補。",
                       rating: "StreamCoach評価：★★★★☆",
-                      url: "#",
+                      url: "https://amzn.to/4vnAjvV",
                     },
                     {
                       type: "性能重視",
                       name: "Shure MV7+",
                       note: "音質重視で長く使いたい人向け。雑談配信や声を武器にしたい配信者と相性が良い候補。",
                       rating: "StreamCoach評価：★★★★★",
-                      url: "#",
+                      url: "https://amzn.to/4xD5fJT",
                     },
                     {
                       type: "値段重視",
                       name: "FIFINE K669B",
                       note: "できるだけ安くマイク環境を整えたい人向け。まず配信を始めたい人の入門候補。",
                       rating: "StreamCoach評価：★★★☆☆",
-                      url: "#",
+                      url: "https://amzn.to/4ewmK5T",
                     },
                   ]}
                 />
@@ -1025,21 +1025,21 @@ export default function Home() {
                       name: "Logicool C922n",
                       note: "配信者向けWebカメラの定番候補。価格と画質のバランスを取りたい人向け。",
                       rating: "StreamCoach評価：★★★★☆",
-                      url: "#",
+                      url: "https://amzn.to/4oFhMIQ",
                     },
                     {
                       type: "性能重視",
                       name: "Elgato Facecam MK.2",
                       note: "画質をしっかり上げたい人向け。顔出し雑談やカメラ映像の印象を重視する人におすすめ。",
                       rating: "StreamCoach評価：★★★★★",
-                      url: "#",
+                      url: "https://amzn.to/3SBxSqV",
                     },
                     {
                       type: "値段重視",
                       name: "Logicool C270n",
                       note: "まず安く顔出しや手元カメラを試したい人向け。最低限の導入候補。",
                       rating: "StreamCoach評価：★★★☆☆",
-                      url: "#",
+                      url: "https://amzn.to/4b1iRF9",
                     },
                   ]}
                 />
@@ -1053,21 +1053,21 @@ export default function Home() {
                       name: "AVerMedia Live Gamer MINI",
                       note: "家庭用ゲーム機配信を始めたい人向け。価格と安定性のバランスを取りやすい候補。",
                       rating: "StreamCoach評価：★★★★☆",
-                      url: "#",
+                      url: "https://amzn.to/3SkOrY3",
                     },
                     {
                       type: "性能重視",
                       name: "Elgato HD60 X",
                       note: "画質・安定性を重視したい人向け。PS5やSwitch配信をしっかりやりたい人の候補。",
                       rating: "StreamCoach評価：★★★★★",
-                      url: "#",
+                      url: "https://amzn.to/4oEta7U",
                     },
                     {
                       type: "値段重視",
                       name: "UGREEN キャプチャーボード",
                       note: "できるだけ安く家庭用ゲーム機配信を試したい人向け。入門用の候補。",
                       rating: "StreamCoach評価：★★★☆☆",
-                      url: "#",
+                      url: "https://amzn.to/4efGaxa",
                     },
                   ]}
                 />
@@ -1081,21 +1081,21 @@ export default function Home() {
                       name: "Royal Kludge RK84",
                       note: "価格を抑えつつ無線・コンパクト構成を狙いやすい候補。デスク周りをすっきりさせたい人向け。",
                       rating: "StreamCoach評価：★★★★☆",
-                      url: "#",
+                      url: "https://amzn.to/44iyc0e",
                     },
                     {
                       type: "性能重視",
                       name: "Pulsar PCMK 2 HE",
                       note: "ゲーム用途で性能を重視したい人向け。FPS配信など操作性を重視する人の候補。",
                       rating: "StreamCoach評価：★★★★★",
-                      url: "#",
+                      url: "https://amzn.to/44fMwGW",
                     },
                     {
                       type: "値段重視",
                       name: "Logicool G213",
                       note: "できるだけ安くゲーミングキーボードを導入したい人向け。入門用の候補。",
                       rating: "StreamCoach評価：★★★☆☆",
-                      url: "#",
+                      url: "https://amzn.to/4aFBRZI",
                     },
                   ]}
                 />
@@ -1104,7 +1104,8 @@ export default function Home() {
               <div className="mt-6 rounded-xl border border-zinc-800 bg-black p-4">
                 <p className="text-xs font-bold text-zinc-400">アフィリエイトについて</p>
                 <p className="mt-2 text-xs leading-5 text-zinc-500">
-                  当サイトはAmazonアソシエイト等のアフィリエイトプログラムを利用する場合があります。
+                  当サイトはAmazonアソシエイト・プログラムに参加しています。
+                  当サイトは適格販売により収入を得ています。
                   紹介している商品から購入された場合、運営者が紹介料を受け取ることがあります。
                   商品価格・在庫・仕様は販売サイトをご確認ください。
                 </p>
