@@ -1101,6 +1101,91 @@ export default function Home() {
                 />
               </div>
 
+
+                <GearCategory
+                  title="モニター"
+                  description="ゲーム配信や作業効率を上げたい人向けです。メインモニターだけでなく、OBSやコメント確認用のサブモニターにも役立ちます。"
+                  items={[
+                    {
+                      type: "コスパ重視",
+                      name: "KOORUI 24E4",
+                      note: "高リフレッシュレートで価格を抑えたい人向け。FPSやアクションゲーム配信の入門候補。",
+                      rating: "StreamCoach評価：★★★★☆",
+                      url: "https://amzn.to/4xJANy6",
+                    },
+                    {
+                      type: "性能重視",
+                      name: "Dell AW2726DM",
+                      note: "高画質・高性能で長く使いたい人向け。ゲームも作業も快適にしたい配信者向けの候補。",
+                      rating: "StreamCoach評価：★★★★★",
+                      url: "https://amzn.to/4w3K56q",
+                    },
+                    {
+                      type: "値段重視",
+                      name: "PHILIPS 242E2F",
+                      note: "できるだけ安くモニターを増やしたい人向け。サブモニター用にも使いやすい候補。",
+                      rating: "StreamCoach評価：★★★☆☆",
+                      url: "https://amzn.to/4aFRxMw",
+                    },
+                  ]}
+                />
+
+                <GearCategory
+                  title="オーディオインターフェース"
+                  description="XLRマイクを使いたい人や、音質を本格的に整えたい人向けです。声を武器にしたい配信者ほど重要になります。"
+                  items={[
+                    {
+                      type: "コスパ重視",
+                      name: "Scarlett Solo",
+                      note: "定番のオーディオインターフェース。XLRマイクを安定して使いたい人向けの候補。",
+                      rating: "StreamCoach評価：★★★★☆",
+                      url: "https://amzn.to/4vkHq87",
+                    },
+                    {
+                      type: "性能重視",
+                      name: "Wave XLR MK.2",
+                      note: "配信者向け機能が豊富。音質だけでなく配信中の音量管理もしやすい候補。",
+                      rating: "StreamCoach評価：★★★★★",
+                      url: "https://amzn.to/4exkJGS",
+                    },
+                    {
+                      type: "値段重視",
+                      name: "M-Track Solo",
+                      note: "できるだけ安くXLR環境を試したい人向け。入門用の候補。",
+                      rating: "StreamCoach評価：★★★☆☆",
+                      url: "https://amzn.to/4fQEzz5",
+                    },
+                  ]}
+                />
+
+                <GearCategory
+                  title="照明"
+                  description="顔出し配信や手元カメラの見やすさを改善したい人向けです。カメラ映りは初見の印象にも関わります。"
+                  items={[
+                    {
+                      type: "コスパ重視",
+                      name: "NEEWER LED",
+                      note: "コスパ良く照明環境を整えたい人向け。顔出しや手元カメラの映りを改善しやすい候補。",
+                      rating: "StreamCoach評価：★★★★☆",
+                      url: "https://amzn.to/4xEhpSW",
+                    },
+                    {
+                      type: "性能重視",
+                      name: "Key Light Air",
+                      note: "配信者定番の高品質ライト。明るさや見た目の安定感を重視したい人向け。",
+                      rating: "StreamCoach評価：★★★★★",
+                      url: "https://amzn.to/4fQEYBB",
+                    },
+                    {
+                      type: "値段重視",
+                      name: "UBeesize",
+                      note: "安価に照明を導入したい人向け。まず顔出しや手元配信を試したい人の候補。",
+                      rating: "StreamCoach評価：★★★☆☆",
+                      url: "https://amzn.to/4oFzjAz",
+                    },
+                  ]}
+                />
+
               <div className="mt-6 rounded-xl border border-zinc-800 bg-black p-4">
                 <p className="text-xs font-bold text-zinc-400">アフィリエイトについて</p>
                 <p className="mt-2 text-xs leading-5 text-zinc-500">
